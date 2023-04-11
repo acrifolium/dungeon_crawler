@@ -1,10 +1,12 @@
 [package]
 name = "dungeoncrawler"
 version = "0.1.0"
-authors= [
-    "Olivier Azevedo <olivier.azevedo@gmail.com>"
-]
+authors= ["Olivier Azevedo <olivier.azevedo@gmail.com>"]
 description= "Dungeon Crawler game in Rust"
+keywords = ["gamedev", "rust"]
+categories = ["gaming"]
+repository = "git@github.com:acrifolium/dungeon_crawler.git"
+license = "MIT OR Apache-2.0"
 license_file= "LICENSE"
 readme= "README.md"
 edition = "2021"
