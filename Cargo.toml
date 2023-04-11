@@ -1,0 +1,16 @@
+[package]
+name = "dungeoncrawler"
+version = "0.1.0"
+authors= [
+    "Olivier Azevedo <olivier.azevedo@gmail.com>"
+]
+description= "Dungeon Crawler game in Rust"
+license_file= "LICENSE"
+readme= "README.md"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bracket-lib = "~0.8.1"
+legion = "=0.3.1"
